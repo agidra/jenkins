@@ -1,2 +1,2 @@
-job("HelloWorldAMEX") {
+job("HelloWorldAMEX2") {
 }
